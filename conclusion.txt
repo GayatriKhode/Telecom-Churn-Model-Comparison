@@ -1,1 +1,1 @@
-Conclusion: Logistic Regression performed better based on F1-score (0.5960) on this test split. Review all metrics before choosing a final model, especially recall and ROC-AUC, because missing customers who are likely to churn can be costly.
+Logistic Regression performed better based on F1-score (0.5960) on this test split. Review recall and ROC-AUC as well before selecting a final model.

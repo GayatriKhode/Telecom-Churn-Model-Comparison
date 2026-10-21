@@ -1,1 +1,1 @@
-Place your existing telecom churn CSV dataset in this folder. The dataset is not included in the ZIP.
+Place your CSV here as telecom_churn.csv, or pass its path with --data.\n

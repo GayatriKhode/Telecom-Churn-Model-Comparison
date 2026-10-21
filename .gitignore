@@ -1,7 +1,1 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.env
-outputs/*.csv
-outputs/*.txt
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.env\n
